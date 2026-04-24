@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+*.log
+walmart_scraped_catalog_data.csv
+walmart_scraped_catalog_data.xlsx
